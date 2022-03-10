@@ -20,7 +20,7 @@ h1 {
     border: 1px solid red;
 }
 
-/* 隐藏Simple网站图标 */
+/* 隐藏Simple网站图标 🐶*/
 footer[class*=styles_footer] div[dir="ltr"] {
     display: none;
 }
