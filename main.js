@@ -13,4 +13,5 @@ el.addEventListener('click', function (ev) {
     this.style.color = this.flag ? 'red' : 'green'
 }, false)
 
-console.log('hello, notion!')
+console.log('hello, notion pages!')
+
