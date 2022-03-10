@@ -8,7 +8,7 @@
 
 
 h1 {
-    color: yellow;
+    color: crimson;
 }
 
 #custom-sidebar {
@@ -18,4 +18,9 @@ h1 {
     bottom: 0;
     left: 0;
     border: 1px solid red;
+}
+
+/* 隐藏Simple网站图标 */
+footer[class*=styles_footer] div[dir="ltr"] {
+    display: none;
 }
